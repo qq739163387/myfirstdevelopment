@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">移动软件开发</string>
+    <string name="hello_word" />
+    <string name="hello_word2">你好2人世界</string>
 </resources>
